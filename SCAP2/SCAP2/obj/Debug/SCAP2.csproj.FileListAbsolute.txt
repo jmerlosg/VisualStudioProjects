@@ -1,0 +1,9 @@
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\bin\SCAP2.dll.config
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\bin\SCAP2.dll
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\bin\SCAP2.pdb
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\obj\Debug\SCAP2.csprojResolveAssemblyReference.cache
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\obj\Debug\SCAP2.csproj.CoreCompileInputs.cache
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\obj\Debug\SCAP2.dll
+C:\Users\jmerlos.MEXICO\Documents\GitHub\SCAP2\SCAP2\obj\Debug\SCAP2.pdb

@@ -1,0 +1,10 @@
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\bin\Debug\BasicWebAppFolderGenerator.exe.config
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\bin\Debug\BasicWebAppFolderGenerator.exe
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\bin\Debug\BasicWebAppFolderGenerator.pdb
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.csprojResolveAssemblyReference.cache
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.frmBasicWebAppFolderGenerator.resources
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.Properties.Resources.resources
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.csproj.GenerateResource.Cache
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.exe
+C:\Users\jmerlos.MEXICO\Documents\GitHub\BasicWebAppFolderGenerator\BasicWebAppFolderGenerator\obj\Debug\BasicWebAppFolderGenerator.pdb
