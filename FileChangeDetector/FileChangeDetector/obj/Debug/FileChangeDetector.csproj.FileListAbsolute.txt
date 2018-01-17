@@ -1,0 +1,10 @@
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\bin\Debug\FileChangeDetector.exe.config
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\bin\Debug\FileChangeDetector.exe
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\bin\Debug\FileChangeDetector.pdb
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.csprojResolveAssemblyReference.cache
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.frmFileChangeDetector.resources
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.Properties.Resources.resources
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.csproj.GenerateResource.Cache
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.csproj.CoreCompileInputs.cache
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.exe
+C:\Users\jmerlos.MEXICO\Source\Repos\FileChangeDetector\FileChangeDetector\obj\Debug\FileChangeDetector.pdb
